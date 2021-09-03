@@ -9,3 +9,6 @@ Aun mas pruebas
 
 #Probando TEST-README
 Haciendo pruebas de git ahora con test-readme
+
+#Aun mas Test
+Despues del reinicio la laptop
