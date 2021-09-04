@@ -1,4 +1,4 @@
-# gir-curso
+# git-curso
 
 Mi primer Projecto con Git
 #Esta en Login. 
