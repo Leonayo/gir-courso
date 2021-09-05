@@ -1,4 +1,7 @@
 # git-curso
 
-Estamos en TESTSUPREME
-RECORDAR QUE ESTAMOS EN TESTSUPREME
+Estamos en login
+RECORDAR QUE ESTAMOS EN LOGIN
+
+#####
+Login fue borrado en nuestro pasados intentos. Tambien lo sera ahora?
