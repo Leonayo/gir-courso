@@ -1,7 +1,9 @@
 # git-curso
 
-Estamos en login
-RECORDAR QUE ESTAMOS EN LOGIN
+ESTAMOS en supreme
+Recordar que estamos en SUPREME
 
-#####
-Login fue borrado en nuestro pasados intentos. Tambien lo sera ahora?
+####
+Borrara este texto que borro los demas archivos?
+
+
