@@ -1,9 +1,5 @@
 # git-curso
 
-ESTAMOS en supreme
-Recordar que estamos en SUPREME
+Estamos en login
 
-####
-Borrara este texto que borro los demas archivos?
-
-
+### ESTAMOS EN LOGIN
