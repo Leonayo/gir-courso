@@ -12,6 +12,14 @@ body{
      
 }
 
+.things{
+    text-align: center;
+}
+
+.inicio{
+    text-align: center;
+}
+
 .flex-container{
     display: flex;
     background-color: darkgreen;
@@ -30,4 +38,33 @@ body{
 .filosofia{
     width: 80%;
     margin: auto;
+}
+
+.thomas h1{
+    text-align: center;
+}
+
+.Sowell h2{
+    text-align: center;    
+}
+
+.filosofia{
+    text-align: center;
+}
+
+.economia{
+    width: 80%;
+    margin: auto;
+}
+
+.tercer-articulo{
+    text-align: center;
+}
+
+.citas-economia{
+    text-align: center;
+}
+
+.articulos{
+    text-align: center;
 }
