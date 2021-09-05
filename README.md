@@ -1,5 +1,4 @@
 # git-curso
 
-ESTO ES UNA PRUEBA ES TEST MASTER
-
-Estamos en testmaster. ESTAMOS EN TESTMASTER
+estamos en login
+RECORDAR QUE ESTAMOS EN LOGIN
