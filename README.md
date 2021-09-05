@@ -1,5 +1,5 @@
 # git-curso
 
-Estamos en login
+Estamos en BELLA
 
-### ESTAMOS EN LOGIN
+Recordar que estamos en BELLA
