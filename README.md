@@ -1,6 +1,5 @@
-# gir-curso
+# git-curso
 
-Projecto git el branch TEST-INICIAL
-Tenemos en rojo readme.md
+ESTO ES UNA PRUEBA ES TEST MASTER
 
-Estamos en TEST-INICIAL
+Estamos en testmaster. ESTAMOS EN TESTMASTER
