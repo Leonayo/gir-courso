@@ -33,13 +33,22 @@ body{
 .segundo2{
     width: 80%;
     margin: auto;
-}
+
+    border-right: 5px red solid;
+    border-left: 5px red solid;
+    border-bottom: 5px red solid;
+    border-top: 5px red solid;
+    }
 
 .filosofia{
     width: 80%;
     margin: auto;
 }
 
+.filosofia h1{
+    font-family: cursive; 
+    font-weight: 900;
+}
 .thomas h1{
     text-align: center;
 }
