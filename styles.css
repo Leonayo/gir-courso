@@ -9,12 +9,42 @@ body{
     font-size: 14px;
 
     line-height: 1.6em;
-     
+}
+
+a{
+    text-decoration: none;
+    color: #000; 
+}
+
+a:hover{
+    color: red;
+}
+
+.button{
+    background-color: #333;
+    color: #fff;
+    padding: 10px 15px;
+    border: none    ;
 }
 
 .things{
     text-align: center;
 }
+
+.my-form {
+    padding: 20px;
+    font-style: inherit;
+}
+
+.my-form label{
+    display: block;
+}
+
+.my-form input[type="text"], .my-form textarea{
+    padding: 8px;
+    width: 100%;
+}
+
 
 .inicio{
     text-align: center;
@@ -76,4 +106,14 @@ body{
 
 .articulos{
     text-align: center;
+}
+
+.categorias{
+    color-adjust: red;
+}
+
+.boton{
+    padding: 8px;
+    width: 100%;
+    
 }

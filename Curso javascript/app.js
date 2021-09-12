@@ -1,6 +1,6 @@
-let nombre = "Leo";
-let Apellido = "Avila";
+let count = 0;
 
-let completo = nombre + ' ' + Apellido;
-
-console.log(completo)
+while(count < 50){
+    console.log(count)
+    count = count   
+}   
