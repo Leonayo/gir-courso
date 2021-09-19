@@ -2,7 +2,6 @@
 
 
 body{
-    background-color: pink;
     color: darkcyan;
 
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -11,6 +10,8 @@ body{
     line-height: 1.6em;
 }
 
+
+
 a{
     text-decoration: none;
     color: #000; 
@@ -18,6 +19,17 @@ a{
 
 a:hover{
     color: red;
+    bottom: red;
+}
+
+.button:hover{
+    background: red;
+    color: #fff;
+}
+
+.sublime{
+    background: burlywood;
+    border-radius: 0vmin;
 }
 
 .button{
@@ -50,14 +62,13 @@ a:hover{
     text-align: center;
 }
 
-.flex-container{
-    display: flex;
-    background-color: darkgreen;
-}
+
 
 .container{
+    background-color: rebeccapurple;
     width: 80%;
     margin: auto;
+    color: white;
 }
 
 .segundo2{
@@ -68,6 +79,9 @@ a:hover{
     border-left: 5px red solid;
     border-bottom: 5px red solid;
     border-top: 5px red solid;
+
+    background-color:violet;
+    color: black;
     }
 
 .filosofia{
@@ -78,22 +92,30 @@ a:hover{
 .filosofia h1{
     font-family: cursive; 
     font-weight: 900;
+    text-align: center;
 }
 .thomas h1{
     text-align: center;
+    background: black;
+}
+
+.Sowell{
+    background-color: chartreuse;
+    color: coral;
 }
 
 .Sowell h2{
-    text-align: center;    
+    text-align: center;
 }
 
 .filosofia{
-    text-align: center;
+    text-align: center;    
 }
 
 .economia{
     width: 80%;
     margin: auto;
+    background-color: blueviolet;
 }
 
 .tercer-articulo{
@@ -116,4 +138,10 @@ a:hover{
     padding: 8px;
     width: 100%;
     
+}
+
+.block{
+    float: left;
+    width: 33.3%;
+    box-sizing: border-box;   
 }
