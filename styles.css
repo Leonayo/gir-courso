@@ -10,7 +10,23 @@ body{
     line-height: 1.6em;
 }
 
+.clr{
+    clear: both;
+}
 
+.thomassowell{
+    width: 80%;
+    margin: auto;
+    background-color: red;
+    text-align: center;
+}
+
+.inicio h1{
+    text-align: center;
+    background-color:burlywood;
+    width: 80%;
+    margin: auto;
+}
 
 a{
     text-decoration: none;
@@ -28,7 +44,6 @@ a:hover{
 }
 
 .sublime{
-    background: burlywood;
     border-radius: 0vmin;
 }
 
@@ -99,13 +114,16 @@ a:hover{
     background: black;
 }
 
-.Sowell{
-    background-color: chartreuse;
-    color: coral;
+.sowell h1{
+    text-align: center;
+    color: coral
 }
 
-.Sowell h2{
+.sowell{
     text-align: center;
+    background-color: red;
+    box-sizing: border-box;
+    vertical-align: middle;
 }
 
 .filosofia{
@@ -115,15 +133,20 @@ a:hover{
 .economia{
     width: 80%;
     margin: auto;
-    background-color: blueviolet;
+    background-color: rgb(43, 46, 226);
+    color: whitesmoke;
 }
 
 .tercer-articulo{
     text-align: center;
 }
 
-.citas-economia{
+.citas-economia h2{
     text-align: center;
+    background-position: center ;
+    background-color: violet;
+    width: 80%;
+    margin: auto;
 }
 
 .articulos{
@@ -143,5 +166,42 @@ a:hover{
 .block{
     float: left;
     width: 33.3%;
-    box-sizing: border-box;   
+    border:1px solid black;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+#main-block{
+    float: left;
+    width: 70%;
+    padding: 15px;
+    box-sizing: border-box;
+}
+
+#sidebar{
+    float: right;
+    width: 30%;
+    background-color: #333;
+    color: #fff;
+    padding: 15px;
+    box-sizing: border-box;
+}
+
+.fix-me{
+    position: fixed;
+    top:400px
+}
+
+.my-list li:first-child{
+    background-color: blueviolet;
+
+}
+
+.my-list li:last-child{
+    background-color: crimson;
+}
+
+.my-list li:nth-child(2){
+    background-color: darkgreen;
+
 }
